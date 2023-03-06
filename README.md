@@ -7,10 +7,10 @@
 
 ![DevVitorMagalhaes GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVitorMagalhaes&show_icons=true&theme=transparent)
 
-### “Não é a linguagem de programação que define o programador, mas sim sua lógica.” – David Ribeiro Guilherme
+#### “Não é a linguagem de programação que define o programador, mas sim sua lógica.” – David Ribeiro Guilherme
 
 ## Tecnologias que utilizo no dia a dia
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
-[![Amazon aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]
+
